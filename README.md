@@ -4,7 +4,7 @@ A pattern portfolio for the City of Oakland based on GitHub's Primer.
 
 ## Understanding the Web Architecture
 
-1. This is a staticly generated website hosted on this repo
+1. This is a static website hosted on this repo
 2. The web app is hosted on Heroku at https://oaklandca-design.herokuapp.com
 3. The URL https://design.oaklandca.gov/0/ pointed to the Heroku app
 
